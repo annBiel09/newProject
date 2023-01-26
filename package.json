@@ -4,11 +4,17 @@
   "description": "Selenium Example Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Anna Bielska",
   "license": "MIT",
   "dependencies": {
-    "selenium-webdriver": "^4.7.1"
+    "chai": "^4.3.7",
+    "chromedriver": "^108.0.0",
+    "mocha": "^8.4.0",
+    "mochawesome": "^7.1.3",
+    "node": "^19.4.0",
+    "selenium-webdriver": "^4.7.1",
+    "webdriver": "^8.1.3"
   }
 }
