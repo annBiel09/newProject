@@ -1,3 +1,2 @@
 # newProject
-Javascript + Selenium Webdriver
-main page: https://skleptest.pl
+Javascript + Selenium Webdriver; main page: https://skleptest.pl
